@@ -1,15 +1,23 @@
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
 
-        visited = {}
-
         ptr = head
+        ptr2 = head
 
-        while ptr is not None:
-            if ptr in visited:
-                return ptr  
+        ptr3 = head
 
-            visited[ptr] = True
+
+        while ptr2 != None and ptr2.next != None:
             ptr = ptr.next
+            ptr2 = ptr2.next.next
+            if ptr == ptr2:
+                while ptr3 != ptr2:
+                    ptr3 = ptr3.next
+                    ptr2 = ptr2.next
+                    
+                return ptr3
 
-        return None  
+        return None
+
+
+                
