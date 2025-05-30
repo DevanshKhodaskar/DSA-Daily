@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0078-subsets) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
