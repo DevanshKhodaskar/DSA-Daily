@@ -1,5 +1,7 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
+        if digits == "":
+            return []
 
         keypad = {
             '2': ['a', 'b', 'c'],
@@ -27,7 +29,4 @@ class Solution:
         final_ans = []
 
         helper(keypad,final_ans,"",digits,0)
-        for i in final_ans:
-            if i == "":
-                final_ans.remove(i)
         return final_ans
