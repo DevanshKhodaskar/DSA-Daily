@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0051-n-queens) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0142-linked-list-cycle-ii) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0079-word-search) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
