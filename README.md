@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0139-word-break) |
+| [0204-count-primes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0216-combination-sum-iii) |
 ## Binary Search
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2050-count-good-numbers) |
 ## Recursion
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0139-word-break) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
