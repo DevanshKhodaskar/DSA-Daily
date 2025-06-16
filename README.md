@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0943-sum-of-subarray-minimums) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |
