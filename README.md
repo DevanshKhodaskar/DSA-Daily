@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0139-word-break) |
 | [0402-remove-k-digits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
