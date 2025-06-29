@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0943-sum-of-subarray-minimums) |
+| [0966-binary-subarrays-with-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2227-sum-of-subarray-ranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2227-sum-of-subarray-ranges) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0496-next-greater-element-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -237,5 +240,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
