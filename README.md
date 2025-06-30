@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0079-word-search) |
 ## Greedy
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0735-asteroid-collision) |
 ## Sliding Window
 |  |
