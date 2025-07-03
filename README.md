@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1370-count-number-of-nice-subarrays) |
