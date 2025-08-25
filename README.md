@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0239-sliding-window-maximum) |
+| [0455-assign-cookies](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0735-asteroid-collision) |
@@ -102,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0455-assign-cookies) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0876-hand-of-straights) |
 ## Merge Sort
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0876-hand-of-straights) |
 ## Trie
 |  |
