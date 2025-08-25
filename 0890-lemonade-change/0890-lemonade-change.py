@@ -19,7 +19,7 @@ class Solution:
                 else:
                     d[5] -= 3
 
-            print(f"d[5]: {d[5]}\td[10]: {d[10]}\td[20]: {d[20]}")
+            # print(f"d[5]: {d[5]}\td[10]: {d[10]}\td[20]: {d[20]}")
             if d[5] < 0 or d[10] < 0:
                 return False
 
