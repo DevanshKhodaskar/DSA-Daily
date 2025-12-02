@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0204-count-primes) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
