@@ -1,24 +1,35 @@
-from collections import defaultdict, deque
+from typing import List
 
-class Solution(object):
-    def findOrder(self, numCourses, prerequisites):
-        graph = defaultdict(list)
-        in_degree = [0] * numCourses
+class Solution:
+    def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
+        stack = []
+        dependency = [[] for _ in range(numCourses)]
 
-        for course, prereq in prerequisites:
-            graph[prereq].append(course)
-            in_degree[course] += 1
+        for a, b in prerequisites:
+            dependency[b].append(a)
 
-        queue = deque([i for i in range(numCourses) if in_degree[i] == 0])
-        result = []
+        visited = [0] * numCourses  
+        cycle = False
 
-        while queue:
-            current = queue.popleft()
-            result.append(current)
+        def dfs(cur):
+            nonlocal cycle
+            if visited[cur] == 1:
+                cycle = True
+                return
+            if visited[cur] == 2:
+                return
 
-            for neighbor in graph[current]:
-                in_degree[neighbor] -= 1
-                if in_degree[neighbor] == 0:
-                    queue.append(neighbor)
+            visited[cur] = 1
+            for i in dependency[cur]:
+                dfs(i)
+            visited[cur] = 2
+            stack.append(cur)
 
-        return result if len(result) == numCourses else []
+        for i in range(numCourses):
+            if visited[i] == 0:
+                dfs(i)
+
+        if cycle:
+            return []
+
+        return stack[::-1]
