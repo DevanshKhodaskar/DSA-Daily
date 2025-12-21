@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0802-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0802-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1020-number-of-enclaves) |
@@ -493,10 +495,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
