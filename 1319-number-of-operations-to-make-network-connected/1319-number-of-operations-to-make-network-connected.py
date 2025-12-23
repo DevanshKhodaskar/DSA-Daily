@@ -1,22 +1,33 @@
 class Solution:
     def makeConnected(self, n: int, connections: List[List[int]]) -> int:
-        if len(connections) < n - 1:
+        if len(connections)<n - 1:
             return -1
 
-        parent = list(range(n))
+
+
+        par = [i for i in range(n)]
+       
 
         def find(x):
-            if parent[x] != x:
-                parent[x] = find(parent[x])
-            return parent[x]
+            res = par[x]
 
-        def union(a, b):
-            pa, pb = find(a), find(b)
-            if pa != pb:
-                parent[pb] = pa
+            while res != par[res]:
+                res = par[res]
+            return res
 
-        for a, b in connections:
-            union(a, b)
+        def union(a,b):
+            pa,pb = find(a),find(b)
 
-        components = len({find(i) for i in range(n)})
-        return components - 1
+            if pa==pb:
+                return 0
+
+            else:
+                par[pa] = par[pb]
+            return 1
+
+        ans = n 
+        for n1,n2 in connections:
+            ans-=union(n1,n2)
+
+        return ans - 1
+        
