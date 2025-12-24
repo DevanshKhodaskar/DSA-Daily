@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-hand-of-straights](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0966-binary-subarrays-with-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1370-count-number-of-nice-subarrays) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0802-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Matrix
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
