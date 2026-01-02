@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0216-combination-sum-iii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1370-count-number-of-nice-subarrays) |
