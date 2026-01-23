@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0827-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0890-lemonade-change) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0222-count-complete-tree-nodes) |
+| [0778-swim-in-rising-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0778-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0802-find-eventual-safe-states) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1020-number-of-enclaves) |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Queue
 |  |
@@ -513,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0802-find-eventual-safe-states) |
@@ -579,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1266-minimum-time-visiting-all-points) |
+## Union-Find
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
