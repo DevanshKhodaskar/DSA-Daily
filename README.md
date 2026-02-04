@@ -596,4 +596,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0778-swim-in-rising-water) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
