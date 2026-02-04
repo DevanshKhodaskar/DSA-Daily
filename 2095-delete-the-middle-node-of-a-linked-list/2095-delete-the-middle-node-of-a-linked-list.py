@@ -15,6 +15,7 @@ class Solution:
             high = high.next.next
         
         low.next = low.next.next
+        print(f"low:{low.val}")
         return head
         
         
