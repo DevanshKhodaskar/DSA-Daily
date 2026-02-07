@@ -1,63 +1,56 @@
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
 class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        
-        def middle(head):
-            temp = ListNode(0)
-            temp.next = head
 
-            ptr = temp
+        if not head or not head.next:
+            return head
+
+        def breeak(head):
+            ptr3 = head
+            ptr = None
             ptr2 = head
-            while ptr2 != None and ptr2.next != None:
-                ptr = ptr.next
+
+            while ptr2 and ptr2.next:
+                ptr = ptr3
+                ptr3 = ptr3.next
                 ptr2 = ptr2.next.next
 
-            return ptr
+            head2 = ptr3
+            if ptr:
+                ptr.next = None
 
-        def merge(l1, l2):
-            ptr = l1
-            ptr2 = l2
-            l3 = ListNode(0)
-            ptr3 = l3
+            return head, head2
 
-            while ptr != None and ptr2 != None:
+        def merge(head1, head2):
+            ptr = head1
+            ptr2 = head2
+
+            head = ListNode(0)
+            ans = head
+
+            while ptr and ptr2:
                 if ptr.val <= ptr2.val:
-                    ptr3.next = ptr
-                    temp = ptr
+                    head.next = ptr
                     ptr = ptr.next
-                    temp.next = None
-                    ptr3 = ptr3.next
                 else:
-                    ptr3.next = ptr2
-                    temp = ptr2
+                    head.next = ptr2
                     ptr2 = ptr2.next
-                    temp.next = None
-                    ptr3 = ptr3.next
+                head = head.next
 
-            if ptr == None:
-                if ptr2 != None:
-                    ptr3.next = ptr2
-            elif ptr2 == None:
-                if ptr != None:
-                    ptr3.next = ptr
+            while ptr:
+                head.next = ptr
+                ptr = ptr.next
+                head = head.next
 
-            return l3.next
+            while ptr2:
+                head.next = ptr2
+                ptr2 = ptr2.next
+                head = head.next
 
-        def divide(head):
-            if head == None or head.next == None:
-                return head
+            return ans.next
 
-            mid = middle(head)
-            temp = mid.next
-            mid.next = None
+        head1, head2 = breeak(head)
 
-            a1 = divide(head)
-            a2 = divide(temp)
+        left = self.sortList(head1)
+        right = self.sortList(head2)
 
-            return merge(a1, a2)
-
-        return divide(head)
+        return merge(left, right)
