@@ -1,53 +1,44 @@
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
 class Solution:
-    def reverse(self,head,k):
-        if not head or not head.next:
-            return head ,head
-
-        ptr = head
-        end = ptr
-        ptr2 = ptr.next
-        ptr3 = ptr2.next if ptr2 else None
-
-        ptr.next = None 
-        count = 1 
-        while ptr2 is not None and count != k:
-            ptr2.next = ptr
-            ptr = ptr2
-            ptr2 = ptr3
-            if ptr3:
-                ptr3 = ptr3.next
-            count+=1
-
-        return ptr ,end
-
-
-
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        count = 0
+
+        def reverseLL(head, tail):
+            prev = None
+            curr = head
+
+            while curr != tail:
+                nxt = curr.next
+                curr.next = prev
+                prev = curr
+                curr = nxt
+
+            return prev, head
+
         ptr = head
-        last_end = None
-        new_head = None
-        while ptr != None:
-            ptr2 = ptr
-            for i in range(k):
-                if ptr2 == None:
-                    return new_head if new_head else head
-                    
-                ptr2 = ptr2.next
+        anshead = None
+        ansTail = None
 
-            start,end = self.reverse(ptr,k)
-            if new_head == None:
-                new_head = start
-            end.next = ptr2
-            if last_end:
-                last_end.next = start
-            last_end = end
-            ptr = ptr2
-        return new_head
+        while ptr:
+            tail = ptr
+            count = 0
 
-        
+            while count < k and tail:
+                tail = tail.next
+                count += 1
+
+            if count < k:
+                if ansTail:
+                    ansTail.next = ptr
+                break
+
+            h1, t1 = reverseLL(ptr, tail)
+
+            if not anshead:
+                anshead = h1
+                ansTail = t1
+            else:
+                ansTail.next = h1
+                ansTail = t1
+
+            ptr = tail
+
+        return anshead if anshead else head
