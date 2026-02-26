@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0231-power-of-two) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0139-word-break) |
 ## Enumeration
 |  |
