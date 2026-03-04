@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0189-rotate-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0085-maximal-rectangle) |
@@ -628,4 +630,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1934-confirmation-rate) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
