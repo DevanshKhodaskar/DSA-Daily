@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0721-accounts-merge) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0943-sum-of-subarray-minimums) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
