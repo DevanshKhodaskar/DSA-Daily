@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0424-longest-repeating-character-replacement) |
