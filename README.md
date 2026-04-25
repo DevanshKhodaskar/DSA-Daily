@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2227-sum-of-subarray-ranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2227-sum-of-subarray-ranges) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Merge Sort
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2050-count-good-numbers) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Recursion
 |  |
 | ------- |
@@ -650,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1266-minimum-time-visiting-all-points) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Union-Find
 |  |
 | ------- |
