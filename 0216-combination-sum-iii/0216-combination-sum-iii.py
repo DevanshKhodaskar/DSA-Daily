@@ -1,27 +1,24 @@
 class Solution:
     def combinationSum3(self, k: int, n: int) -> List[List[int]]:
-        digits = [1,2,3,4,5,6,7,8,9]
+        ans = []
 
 
-        def helper(Sum,ans,final_ans,i,digits,k,n):
-            if len(ans)>k:
-                return
-
-            if len(ans) == k:
-                if Sum == n:
-                    final_ans.append(ans[:])
+        def helper(i,summ,arr):
+            
+            if summ>n or len(arr)>k:
                 return
             
-            if i == len(digits):
+            elif summ == n and len(arr) == k:
+                ans.append(arr[:])
                 return
+            if i==10:
+                return 
+            else:
+                helper(i+1,summ,arr)
+                arr.append(i)
+                
+                helper(i+1,summ+i,arr)
 
-            ans.append(digits[i])
-
-            helper(Sum+digits[i],ans,final_ans,i+1,digits,k,n)
-
-            ans.pop()
-            helper(Sum,ans,final_ans,i+1,digits,k,n) 
-        
-        final_ans = []
-        helper(0,[],final_ans,0,digits,k,n)
-        return final_ans
+                arr.pop()
+        helper(1,0,[])
+        return ans
