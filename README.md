@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0079-word-search) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0053-maximum-subarray) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0085-maximal-rectangle) |
