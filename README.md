@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1266-minimum-time-visiting-all-points) |
+| [1306-jump-game-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1020-number-of-enclaves) |
+| [1306-jump-game-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1306-jump-game-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Search Tree
