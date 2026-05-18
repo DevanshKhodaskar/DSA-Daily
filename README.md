@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0139-word-break) |
