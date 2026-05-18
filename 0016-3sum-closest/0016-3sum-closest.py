@@ -5,6 +5,22 @@ class Solution:
         closest = nums[0] + nums[1] + nums[2]
 
         for i in range(len(nums) - 2):
+
+            min_sum = nums[i] + nums[i + 1] + nums[i + 2]
+
+            if min_sum > target:
+                if abs(min_sum - target) < abs(closest - target):
+                    closest = min_sum
+                break
+
+   
+            max_sum = nums[i] + nums[-1] + nums[-2]
+
+            if max_sum < target:
+                if abs(max_sum - target) < abs(closest - target):
+                    closest = max_sum
+                continue
+
             l = i + 1
             r = len(nums) - 1
 
