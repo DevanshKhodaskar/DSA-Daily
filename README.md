@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0127-word-ladder) |
