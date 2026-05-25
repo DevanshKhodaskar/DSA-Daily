@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1048-longest-string-chain) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1871-jump-game-vii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1340-jump-game-v](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1871-jump-game-vii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
 |  |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1871-jump-game-vii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1871-jump-game-vii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1871-jump-game-vii) |
 ## Counting
 |  |
 | ------- |
