@@ -1,19 +1,25 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        if sum(nums) % 2:
+        s = sum(nums)
+        if s%2 !=0:
             return False
-        
-        dp = set()
-        dp.add(0)
-        target = sum(nums) // 2
+        target = s//2
+        memo = {}
+        def helper(summ,i):
+            if summ>target:
+                return False
 
-        for i in range(len(nums) - 1, -1, -1):
-            nextDP = set()
-            for t in dp:
-                if t + nums[i] == target:
-                    return True
-                nextDP.add(t + nums[i])
-                nextDP.add(t)
-            dp = nextDP 
+            if summ == target:
+                return True
+            if i == len(nums):
+                return False
+            if (summ,i) in memo:
+                return memo[(summ,i)]
 
-        return target in dp
+
+
+            memo[(summ,i)] =  helper(summ+nums[i]  ,i+1) or helper(summ,i+1)
+            return memo[(summ,i)]
+        return helper(0,0)
+
+            
