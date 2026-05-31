@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
