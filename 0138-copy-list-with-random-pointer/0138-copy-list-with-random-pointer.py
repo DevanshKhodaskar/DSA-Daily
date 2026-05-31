@@ -25,7 +25,6 @@ class Solution:
             dic[h1] = newhead
         h2 = head
         h3 = ans
-        print(f"{h1.val}\t{dic[h1].val}")
         while h2!= None:
             h3.random = dic[h2.random] if h2.random else None
             h2 = h2.next
