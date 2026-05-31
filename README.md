@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2126-destroying-asteroids) |
 | [2227-sum-of-subarray-ranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2227-sum-of-subarray-ranges) |
 | [2784-check-if-array-is-good](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0890-lemonade-change) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2126-destroying-asteroids](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2126-destroying-asteroids) |
 ## Trie
 |  |
 | ------- |
