@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1470-shuffle-the-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1470-shuffle-the-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
