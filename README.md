@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0518-coin-change-ii) |
