@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0542-01-matrix) |
+| [0636-exclusive-time-of-functions](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0733-flood-fill) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0503-next-greater-element-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0937-online-stock-span) |
