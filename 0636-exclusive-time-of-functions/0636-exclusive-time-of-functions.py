@@ -15,10 +15,11 @@ class Solution:
 
             else:
                 start = stack.pop()
-                time = ele[2] - start[2] + 1
-                exclusive_time = time - start[3]
 
-                ans[ele[0]] += exclusive_time
+                time = ele[2] - start[2] + 1
+                exe_time = time - start[3]
+
+                ans[ele[0]] += exe_time
 
                 if stack:
                     stack[-1][3] += time
