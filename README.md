@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2073-time-needed-to-buy-tickets](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2073-time-needed-to-buy-tickets) |
 | [2126-destroying-asteroids](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2126-destroying-asteroids) |
 | [2227-sum-of-subarray-ranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2227-sum-of-subarray-ranges) |
 | [2784-check-if-array-is-good](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2784-check-if-array-is-good) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0239-sliding-window-maximum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sliding Window
 |  |
 | ------- |
