@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1306-jump-game-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1340-jump-game-v) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1370-count-number-of-nice-subarrays) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Monotonic Queue
 |  |
