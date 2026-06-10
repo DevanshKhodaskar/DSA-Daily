@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0482-license-key-formatting](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0678-valid-parenthesis-string) |
