@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2050-count-good-numbers) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Matrix
 |  |
 | ------- |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
