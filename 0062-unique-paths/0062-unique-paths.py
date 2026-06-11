@@ -1,17 +1,24 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        dp = [[0]*n for _ in range(m)]
+        
+        
+        memo = {}
+        memo[(m-1,n-1)]=1
+        def helper(i,j):
 
-        dp[0][0] = 1
-
-        for i in range(m):
-            for j in range(n):
-                if i == 0 and j == 0:
-                    continue
+            if (i,j) in memo:
+                return memo[(i,j)]
+            else:
+                
+                left = helper(i+1,j) if i+1<m else 0
+                right = helper(i,j+1) if j+1<n else 0
+                memo[(i,j)] = left+right
+                return memo[(i,j)] 
+        return helper(0,0)
             
-                top = dp[i-1][j] if i>0 else 0
-                down = dp[i][j-1] if j>0 else 0
-                dp[i][j] = top+down
-
-        return dp[m-1][n-1]
-
+            
+        
+            
+            
+        helper(0,0)
+        return count
