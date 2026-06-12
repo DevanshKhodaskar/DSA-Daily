@@ -5,22 +5,33 @@
 #         self.left = None
 #         self.right = None
 
+from collections import deque
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        if root ==  None:
-            return None
+        m = {}
+        qu = deque()
 
-        if root == p or root==q:
-            return root
-        l = self.lowestCommonAncestor(root.left,p,q)
-        r = self.lowestCommonAncestor(root.right,p,q)
-        if l and r:
-            return root
-        else:
-            if l:
-                return l
+        qu.append(root)
+        
+        while qu:
+            a = qu.popleft()
+            if a.left:
+                m[a.left] = a
+                qu.append(a.left)
+            if a.right:
+                m[a.right] = a
+                qu.append(a.right)
+
+        s = set()
+        temp = p
+        s.add(temp)
+        while temp in m:
+            s.add(m[temp])
+            temp = m[temp]
+        temp2 = q
+        while temp2 in m:
+            if temp2 in s:
+                return temp2
             else:
-                return r
-
-        
-        
+                temp2 = m[temp2]
+        return root
