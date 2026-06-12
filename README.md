@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2073-time-needed-to-buy-tickets](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2073-time-needed-to-buy-tickets) |
 | [2126-destroying-asteroids](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2126-destroying-asteroids) |
 | [2227-sum-of-subarray-ranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2227-sum-of-subarray-ranges) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3161-block-placement-queries](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1048-longest-string-chain) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String
 |  |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Depth-First Search
@@ -855,4 +861,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
