@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3161-block-placement-queries](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2050-count-good-numbers) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## String
 |  |
 | ------- |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Depth-First Search
@@ -470,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -694,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
