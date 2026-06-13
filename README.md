@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0204-count-primes) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0100-same-tree) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0100-same-tree) |
@@ -772,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0173-binary-search-tree-iterator) |
