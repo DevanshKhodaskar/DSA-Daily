@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0322-coin-change) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0416-partition-equal-subset-sum) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0778-swim-in-rising-water) |
