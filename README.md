@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0907-koko-eating-bananas) |
+| [0932-beautiful-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0932-beautiful-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0994-rotting-oranges) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0932-beautiful-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0932-beautiful-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0368-largest-divisible-subset) |
+| [0932-beautiful-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0932-beautiful-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
