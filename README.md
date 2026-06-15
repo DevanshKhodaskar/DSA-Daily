@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0368-largest-divisible-subset) |
 | [0932-beautiful-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0932-beautiful-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1266-minimum-time-visiting-all-points) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0416-partition-equal-subset-sum) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0542-01-matrix) |
