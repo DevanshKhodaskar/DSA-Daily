@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0368-largest-divisible-subset) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0907-koko-eating-bananas) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0368-largest-divisible-subset) |
