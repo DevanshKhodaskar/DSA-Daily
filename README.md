@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0283-move-zeroes) |
+| [0313-super-ugly-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0368-largest-divisible-subset) |
 | [0932-beautiful-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0932-beautiful-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1266-minimum-time-visiting-all-points) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0416-partition-equal-subset-sum) |
