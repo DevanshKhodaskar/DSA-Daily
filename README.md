@@ -847,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0778-swim-in-rising-water) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Database
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0547-number-of-provinces) |
 ## Binary Indexed Tree
 |  |
 | ------- |
