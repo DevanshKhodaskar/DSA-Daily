@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0376-wiggle-subsequence](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0134-gas-station) |
+| [0376-wiggle-subsequence](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0455-assign-cookies) |
