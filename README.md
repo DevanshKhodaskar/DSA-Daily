@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0583-delete-operation-for-two-strings) |
@@ -925,4 +926,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0375-guess-number-higher-or-lower-ii) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
