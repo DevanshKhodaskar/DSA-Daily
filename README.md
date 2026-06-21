@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0721-accounts-merge) |
+| [0796-rotate-string](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0831-masking-personal-information) |
 | [1021-remove-outermost-parentheses](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1048-longest-string-chain) |
@@ -930,4 +931,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
