@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0542-01-matrix) |
 | [0636-exclusive-time-of-functions](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0636-exclusive-time-of-functions) |
+| [0638-shopping-offers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0733-flood-fill) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0216-combination-sum-iii) |
+| [0638-shopping-offers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0638-shopping-offers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0231-power-of-two) |
+| [0638-shopping-offers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0583-delete-operation-for-two-strings) |
+| [0638-shopping-offers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0638-shopping-offers) |
 | [0678-valid-parenthesis-string](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0943-sum-of-subarray-minimums) |
@@ -564,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0139-word-break) |
+| [0638-shopping-offers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0638-shopping-offers) |
 ## Enumeration
 |  |
 | ------- |
@@ -925,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0638-shopping-offers) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Game Theory
 |  |
