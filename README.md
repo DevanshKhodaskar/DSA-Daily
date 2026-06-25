@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3643-flip-square-submatrix-vertically) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0932-beautiful-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0932-beautiful-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2784-check-if-array-is-good](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -701,12 +705,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1034-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -923,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3161-block-placement-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
 | ------- |
