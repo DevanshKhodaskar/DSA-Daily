@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0518-coin-change-ii) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0638-shopping-offers) |
 ## Bit Manipulation
 |  |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0583-delete-operation-for-two-strings) |
