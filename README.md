@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0354-russian-doll-envelopes) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0354-russian-doll-envelopes) |
