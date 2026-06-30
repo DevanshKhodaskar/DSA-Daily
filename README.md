@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1871-jump-game-vii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
