@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1048-longest-string-chain) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1340-jump-game-v](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1340-jump-game-v) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1871-jump-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0139-word-break) |
 | [0638-shopping-offers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0691-stickers-to-spell-word) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Enumeration
 |  |
 | ------- |
