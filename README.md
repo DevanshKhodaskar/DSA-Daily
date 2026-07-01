@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0338-counting-bits) |
 | [0638-shopping-offers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0645-set-mismatch) |
 | [0691-stickers-to-spell-word](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0691-stickers-to-spell-word) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0375-guess-number-higher-or-lower-ii) |
