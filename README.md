@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0875-koko-eating-bananas) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0638-shopping-offers) |
 | [0678-valid-parenthesis-string](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0691-stickers-to-spell-word) |
+| [0746-min-cost-climbing-stairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0894-all-possible-full-binary-trees](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0894-all-possible-full-binary-trees) |
 | [0943-sum-of-subarray-minimums](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0943-sum-of-subarray-minimums) |
