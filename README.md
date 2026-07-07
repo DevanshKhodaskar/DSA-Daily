@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3161-block-placement-queries](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3161-block-placement-queries) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3161-block-placement-queries) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Merge Sort
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2126-destroying-asteroids) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Trie
 |  |
