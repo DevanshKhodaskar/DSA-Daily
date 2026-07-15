@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2073-time-needed-to-buy-tickets) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2126-destroying-asteroids](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2126-destroying-asteroids) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2227-sum-of-subarray-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2784-check-if-array-is-good) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2784-check-if-array-is-good](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2784-check-if-array-is-good) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1034-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
