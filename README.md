@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3643-flip-square-submatrix-vertically) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
 |  |
 | ------- |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -640,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0204-count-primes) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -716,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2073-time-needed-to-buy-tickets) |
 | [3612-process-string-with-special-operations-i](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
