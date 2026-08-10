@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0932-beautiful-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1370-count-number-of-nice-subarrays) |
+| [1510-stone-game-iv](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1510-stone-game-iv) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/2050-count-good-numbers) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1048-longest-string-chain) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1340-jump-game-v](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1340-jump-game-v) |
+| [1510-stone-game-iv](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1510-stone-game-iv) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1871-jump-game-vii) |
@@ -1031,9 +1033,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [1510-stone-game-iv](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1510-stone-game-iv) |
 ## String Matching
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/0796-rotate-string) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/DevanshKhodaskar/DSA-Daily/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
